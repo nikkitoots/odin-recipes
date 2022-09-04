@@ -1,8 +1,42 @@
 .header
 {
-    color:black;
+    color:rgb(231, 87, 15);
     font-family: sans-serif;
     font-weight: bold;
     text-align: left;
 
 }
+/* style the top navigation bar */
+.topnav
+{
+    overflow:hidden;
+    background-color: ghostwhite;
+}
+/* Style the top nav links */
+.topnav a {
+    float:left;
+    display: block;
+    color:black;
+    font-family: sans-serif;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+/* style the top navigation hover */
+.topnav a:hover {
+    background-color: rgb(153, 213, 68);
+    color:black;
+}
+
+img {
+    margin-top: 30px;
+    border-radius: 20px;
+    }
+
+h4 {
+    font-family: sans-serif;
+
+}
+
